@@ -1,0 +1,8 @@
+torch>=1.8.0       # Specify a suitable minimum version
+torchvision>=0.9.0 # Specify a suitable minimum version
+numpy>=1.19.0
+opencv-python-headless>=4.5.0 # Use headless if no GUI needed
+dlib>=19.20.0
+scikit-image>=0.18.0
+requests>=2.25.0
+tqdm>=4.50.0
