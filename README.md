@@ -44,3 +44,4 @@ This project implements a pipeline to detect deepfakes in videos. It uses face d
 Run the main script from the project's root directory, providing the path to the folder containing your videos:
 
 ```bash
+python -m src.main path/to/your/video_folder [options]
